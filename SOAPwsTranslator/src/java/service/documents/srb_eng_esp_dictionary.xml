@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="srb_eng_esp_dictionary.xsd">
+    <word>
+        <serbian>biljka</serbian>
+        <english>plant</english>
+        <spanish>planta</spanish>
+    </word>
+    <word>
+        <serbian>drvo</serbian>
+        <english>tree</english>
+        <spanish>madera</spanish>
+    </word>
+    <word>
+        <serbian>list</serbian>
+        <english>leaf</english>
+        <spanish>hoja</spanish>
+    </word>
+    <word>
+        <serbian>leptir</serbian>
+        <english>butterfly</english>
+        <spanish>mariposa</spanish>
+    </word>
+    <word>
+        <serbian>voda</serbian>
+        <english>water</english>
+        <spanish>agua</spanish>
+    </word>
+</dictionary>
