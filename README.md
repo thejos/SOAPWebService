@@ -14,4 +14,3 @@ http://localhost:8080/SOAPwsTranslator/TranslatorImplementationService?Tester
 ```  
 :black_small_square: Build the client application `"TranslatorWebServiceClient"` project  
 :black_small_square: Run the client application
-<br>
